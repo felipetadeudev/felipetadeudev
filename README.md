@@ -2,13 +2,13 @@
 
 <img align="right" alt="GIF" width="450px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<h3> Personal Stuffs </h3>
+<h3> Informações </h3>
 
 - 🧑‍💻 Sou Desenvolvedor Front-end
 - 🏠 Sou de Queluz/SP - Brasil
 - 📫 Contato: felipetadeu.dev@gmail.com
 
-<h3> Technologies </h3>
+<h3> Tecnologias </h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +27,7 @@
   
 <hr>
   
-<h3> My Social Medias</h3>
+<h3> Mídia Social </h3>
   
   <div>
   <a href="https://www.instagram.com/eufelipetadeu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
